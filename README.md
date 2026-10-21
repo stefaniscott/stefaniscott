@@ -1,16 +1,14 @@
-## Hi there 👋
+## Stefani Scott
 
-<!--
-**stefaniscott/stefaniscott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Computer Engineering student at **Universidad Politécnica de Madrid**.
 
-Here are some ideas to get you started:
+Currently looking for **internship opportunities in AI**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Areas of interest
+Machine Learning · Generative AI · Data Science · Optimization
+
+### Tech stack
+Python · SQL · R · MATLAB · Git · Linux
+
+### Contact
+[LinkedIn](www.linkedin.com/in/stefani-scott-752130331) · [Email](mailto:stefaniscottp@gmail.com)
