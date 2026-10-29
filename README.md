@@ -2,7 +2,7 @@
 
 MSc Computer Engineering student at **Universidad Politécnica de Madrid**.
 
-Currently looking for **internship opportunities in AI**.
+Currently looking for ** opportunities in AI**.
 
 ### Areas of interest
 Machine Learning · Generative AI · Data Science · Optimization
